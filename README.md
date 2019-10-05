@@ -1,5 +1,7 @@
 # jsonrpc
 
+[![GoDoc](https://godoc.org/github.com/kelseyhightower/jsonrpc?status.svg)](https://godoc.org/github.com/kelseyhightower/jsonrpc)
+
 ## Example Usage
 
 ```Go
